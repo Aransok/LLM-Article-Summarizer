@@ -28,7 +28,7 @@ export HUGGINGFACE_API_KEY="your_huggingface_api_key"
 3. Run the script:
 
 ```bash
-python article_summarizer.py
+python LLM-Article-Summarizer.py
 ```
 
 4. Enter the URL of the article when prompted.
